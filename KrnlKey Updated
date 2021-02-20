@@ -1,0 +1,14 @@
+//Krnl Key Automator by Daniel / Filter
+window.open("https://cdn.krnl.gg/getkey.php", "", "noreferrer=yes");
+setTimeout(function(){
+    window.open("https://cdn.krnl.gg/getkey.php", "", "noreferrer=yes");
+}, 15000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.gg/getkey.php", "", "noreferrer=yes");
+}, 30000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.gg/getkey.php", "", "noreferrer=yes");
+}, 45000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.gg/getkey.php", "", "noreferrer=yes");
+}, 60000);
